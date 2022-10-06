@@ -1,4 +1,4 @@
-![IlhamTahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhamTahir&count_private=true)
+![IlhamTahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhamTahir&count_private=true&theme=dark)
 
 
 ### Hi 👋, I am IlhamTahir!
